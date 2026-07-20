@@ -1,0 +1,39 @@
+{
+    "id": "anima",
+    "title": "Anima Core System",
+    "description": "The Core System for Anima created by Voracious Greed",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Voracious Greed",
+            "email": "pimentel611@gmail.com"
+        },
+        {
+            "name": "Potato"
+        }
+    ],
+    "compatibility": {
+        "minimum": 14,
+        "verified": 14.365,
+        "maximum": 14
+    },
+    "esmodules": [
+        "anima.js"
+    ],
+    "styles": [
+        "anima.css"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "socket": false,
+    "grid": {
+        "distance": 5,
+        "units": "Feet"
+    },
+    "url": "https://github.com/VoraciousGreed/anima"
+}
